@@ -1,0 +1,2 @@
+# medauroidea_genome_resources
+Medauroidea extradentata genome resources
